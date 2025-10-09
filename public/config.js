@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Vaults,Rewards,Portfolio,Leaderboard,Swap",
-  "VITE_CUSTOM_MENUS": "",
+  "VITE_CUSTOM_MENUS": "dApp, https://suite.afbn.me/novex-example/",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
