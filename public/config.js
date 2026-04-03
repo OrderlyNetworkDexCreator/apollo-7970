@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/NovexFi",
   "VITE_SEO_SITE_NAME": "Novex Finance",
   "VITE_SEO_SITE_DESCRIPTION": "Take control of your trading with a powerful decentralized exchange.",
-  "VITE_SEO_SITE_URL": "https://novex.finance",
+  "VITE_SEO_SITE_URL": "https://quests.novex.finance",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@novexfi",
